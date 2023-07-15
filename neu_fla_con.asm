@@ -1,5 +1,5 @@
 section .data
-    ; Constants
+    ; constantes
     PI: dd 3.14159265359
     Gf: dd 1.1663787e-5
     H: dd 6.58211889e-16
